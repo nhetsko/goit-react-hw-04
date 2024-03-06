@@ -1,0 +1,38 @@
+.searchBar {
+    background-color: blue;
+    height: 40px;
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    
+}
+
+.field {
+  width: 200px;
+  height: 20px;
+    padding-right: 40px;
+
+}
+
+.search{
+    border: none;
+    height: 20px;
+    background: none;
+    color: #000;
+    position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        background: none;
+        border: none;
+        cursor: pointer;
+}
+
+.inputContainer {
+    position: relative;
+    display: inline-block;
+    /* або flex, залежно від вашого дизайну */
+}
+

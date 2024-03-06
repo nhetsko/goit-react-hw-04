@@ -1,0 +1,15 @@
+.loadMore {
+    background-color: blue;
+    width: 100px;
+    padding: 10px 20px;
+    border: none;
+    color: #fff;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
